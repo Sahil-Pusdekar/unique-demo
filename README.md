@@ -1,3 +1,3 @@
 # unique-demo
 first github repo
-Author - Sahil Pusdekar
+Author - Sahil Pusdekar(KIT)
